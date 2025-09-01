@@ -166,12 +166,4 @@ Create a feature branch
 
 Submit a pull request
 
-📚 References
 
-Alzheimer’s Association – What is Alzheimer’s?
-
-Mayo Clinic – Symptoms & Causes
-
-CDC – About Alzheimer’s
-
-Wikipedia – Alzheimer’s Disease
